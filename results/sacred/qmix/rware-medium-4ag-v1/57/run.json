@@ -1,0 +1,85 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "C:\\Users\\Clover\\Documents\\My Received Files\\3-3-JCB\\marl\\marl\\src",
+    "dependencies": [
+      "numpy==1.23.5",
+      "PyYAML==6.0.1",
+      "sacred==0.8.4",
+      "torch==2.0.1"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_b723858f895fd5a3a16874a42d90c571.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_11d042ec5af0fdcb39b46ea8efcbcfeb.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_7ddc698bb74674bae897bfdc5662ed00.py"
+      ]
+    ]
+  },
+  "heartbeat": "2023-10-25T07:26:56.069235",
+  "host": {
+    "ENV": {},
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+    "hostname": "DESKTOP-SVKTJ03",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22621-SP0"
+    ],
+    "python_version": "3.10.9"
+  },
+  "meta": {
+    "command": "my_main",
+    "config_updates": {
+      "env_args": {
+        "key": "rware-medium-4ag-v1",
+        "time_limit": 500
+      }
+    },
+    "named_configs": [],
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--id": null,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.time_limit=500",
+        "env_args.key=rware-medium-4ag-v1"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-10-25T07:26:33.660281",
+  "status": "INTERRUPTED",
+  "stop_time": "2023-10-25T07:26:56.070240"
+}

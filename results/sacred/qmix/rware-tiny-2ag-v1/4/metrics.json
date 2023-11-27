@@ -1,0 +1,46 @@
+{
+  "ep_length_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-08-22T11:27:47.313481"
+    ],
+    "values": [
+      500.0
+    ]
+  },
+  "epsilon": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-08-22T11:27:47.313481"
+    ],
+    "values": [
+      1.0
+    ]
+  },
+  "return_mean": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-08-22T11:27:47.313259"
+    ],
+    "values": [
+      0.0
+    ]
+  },
+  "return_std": {
+    "steps": [
+      500
+    ],
+    "timestamps": [
+      "2023-08-22T11:27:47.313481"
+    ],
+    "values": [
+      0.0
+    ]
+  }
+}
